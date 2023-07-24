@@ -2,9 +2,7 @@
 本镜像基于`linuxserver/jellyfin:10.8.10`将默认的场景生成间隔由5分钟改为了6s，无其他改动。
 
 ## 使用方法
-镜像可以自己构建也可以直接使用`docker hub`上的
-
-[镜像]: https://hub.docker.com/r/huihuidehui/jellyfin
+镜像可以自己构建也可以直接使用`docker hub`上的 https://hub.docker.com/r/huihuidehui/jellyfin
 
 
 使用方法和原版镜像一致：https://hub.docker.com/r/linuxserver/jellyfin
